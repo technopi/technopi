@@ -1,13 +1,13 @@
 # technopi
 
-Owner: [@hexronuspi](https://github.com/hexronuspi)  
-Contact: hexronus.technopi@gmail.com
+Owner: `@hexronuspi`  
+Contact: `hexronus.technopi@gmail.com`
 
 Technopi is an organization that hosts multiple open-source libraries and repositories.
 
 ## Releases
 
-- [bitin](https://github.com/technopi/bitin)
+- [bitin](https://github.com/hexronuspi/bitin)
   - Bitin is a digital electronics library written in Python.
-- [eagleview](https://github.com/technopi/eagleview)
-  - Eagleview is a data visualization library. [Visit Eagleview website](https://hexronus.tech/eagleview/index.html)
+- [eagleview](https://github.com/hexronuspi/eagleview)
+  - Eagleview is a data visualization library. [eagleview website](https://hexronus.tech/eagleview/index.html)
